@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Cambio de escenas/E_Inicio.unity
+    guid: 35d06723a7e47044baa575fe9ae51232
+  - enabled: 0
+    path: Assets/Cambio de escenas/E_Principal.unity
+    guid: edcc29e1ad7741b4186729ce124359be
+  - enabled: 0
+    path: Assets/Cambio de escenas/E_Fin.unity
+    guid: 7eac988e788734548b7a7777fc6716dd
+  - enabled: 1
+    path: Assets/CambiodeEscenas/E1_Inicio.unity
+    guid: 2ca50e4bde82c8340af4aa953cad0812
+  - enabled: 1
+    path: Assets/CambiodeEscenas/E2_Principal.unity
+    guid: c33a4386f9b7ca047a659d7be2e44e4f
+  - enabled: 1
+    path: Assets/CambiodeEscenas/E3_Fin.unity
+    guid: 2015d0f937d055d449586bdd5ad62fe3
+  m_configObjects: {}
